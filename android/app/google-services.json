@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "956726569874",
+    "project_id": "colorist-56",
+    "storage_bucket": "colorist-56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956726569874:android:78ab4e9a040ed82d286f4b",
+        "android_client_info": {
+          "package_name": "colorist.map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gNTEB8g58_xH_zPyZftvsiqkJ-xMDQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956726569874:android:cb00ddb030d5b819286f4b",
+        "android_client_info": {
+          "package_name": "com.example.colorist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gNTEB8g58_xH_zPyZftvsiqkJ-xMDQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956726569874:android:e0a44253578e13e1286f4b",
+        "android_client_info": {
+          "package_name": "com.example.gemini_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gNTEB8g58_xH_zPyZftvsiqkJ-xMDQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
